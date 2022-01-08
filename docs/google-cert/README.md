@@ -25,7 +25,7 @@ We will use data from the last twelve complete months, December 2020 through Nov
 4. Export summary CSV files which were small enough to open in Excel
 
 ## Aanalysis: Excel Pivot Tables
-[![Excel Icon](excel_hourly_thumb.png)](graphs_by_hour_and_weekday.xlsx)
+[![Excel Icon](excel_hour_thumb.png)](graphs_by_hour_and_weekday.xlsx)
 [here](cyclistic_bike_share_analysis.html)
 
 [![Exel Icon](excel_monthly_thumb.png)](monthly_summary.xlsx)
