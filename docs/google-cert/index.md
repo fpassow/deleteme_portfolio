@@ -1,12 +1,12 @@
-# Final Promect from Google Data Analyst Certification Course
+# Final Project from Google Data Analyst Certification Course
 
-This is an analysis of rides data from from "Cyclistic", a fictional bike-share company. Users remove a bike from one of the company's many stations around Chicago, and then return it to the same station or any other station. This is a "ride".
+This is an analysis of rides data from "Cyclistic", a fictional bike-share company. Users remove a bike from one of the company's many stations around Chicago, and then return it to the same station or any other station. This is a "ride".
 
-The company has two kinds of users, "casual" users and "members". Members pay a yearly fee instead of paying by the ride or by the day.
+The company has two kinds of users, "casual" users and "members". Members pay a yearly fee. Casual users pay by the ride or by the day.
 
 ## The Question
 
-How do annual members and casual riders use Cyclistic bikes differently?
+"How do annual members and casual riders use Cyclistic bikes differently?"
 
 ## The Data
 
