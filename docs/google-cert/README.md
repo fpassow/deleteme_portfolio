@@ -18,18 +18,23 @@ We will use data from the last twelve complete months, December 2020 through Nov
 
 ## Aanalysis: R Notebook
 [![R Notebook Icon](r_thumb.png)](cyclistic_bike_share_analysis.html)
+[here](cyclistic_bike_share_analysis.html)
 1. Read raw csv files
 2. Combine and clean the data
 3. Analyze for patterns
 4. Export summary CSV files which were small enough to open in Excel
 
+## Aanalysis: Excel Pivot Tables
+[![Excel Icon](excel_hourly_thumb.png)](graphs_by_hour_and_weekday.xlsx)
 [here](cyclistic_bike_share_analysis.html)
 
-## Aanalysis: Excel Pivot Tables
+[![Exel Icon](excel_monthly_thumb.png)](monthly_summary.xlsx)
+[here](monthly_summary.xlsx)
 
-LINK WITH IMAGE HERE
 
 ## Presentation of Results
 
 LINK WITH IMAGE HERE
 
+[![PPT Icon](ppt_thumb.png)](cyclistic.pptx)
+[here](cyclistic.pptx)
