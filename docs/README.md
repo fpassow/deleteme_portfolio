@@ -1,4 +1,5 @@
 # Data Analyst Portfolio
 
-Add links to projects here
+[Google Data Analyst Cert Final Project](google-cert/README.md)
+
 
