@@ -26,10 +26,12 @@ We will use data from the last twelve complete months, December 2020 through Nov
 
 ## Aanalysis: Excel Pivot Tables
 [![Excel Icon](excel_hour_thumb.png)](graphs_by_hour_and_weekday.xlsx)
-[here](cyclistic_bike_share_analysis.html)
+[here](graphs_by_hour_and_weekday.xlsx)
 
 [![Exel Icon](excel_monthly_thumb.png)](monthly_summary.xlsx)
 [here](monthly_summary.xlsx)
+
+![Excel Icon](excel_hour_thumb.png)
 
 
 ## Presentation of Results
