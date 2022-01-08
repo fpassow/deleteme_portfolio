@@ -17,13 +17,13 @@ Data is available under this license: https://ride.divvybikes.com/data-license-a
 We will use data from the last twelve complete months, December 2020 through November 2021.
 
 ## Aanalysis: R Notebook
-
+[![R Notebook Icon](r_thumb.png)](cyclistic_bike_share_analysis.html)
 1. Read raw csv files
 2. Combine and clean the data
 3. Analyze for patterns
 4. Export summary CSV files which were small enough to open in Excel
 
-LINK WITH IMAGE HERE
+[here](cyclistic_bike_share_analysis.html)
 
 ## Aanalysis: Excel Pivot Tables
 
