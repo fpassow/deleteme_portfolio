@@ -31,9 +31,6 @@ We will use data from the last twelve complete months, December 2020 through Nov
 [![Exel Icon](excel_monthly_thumb.png)](monthly_summary.xlsx)
 [here](monthly_summary.xlsx)
 
-![Excel Icon](excel_hour_thumb.png)
-
-
 ## Presentation of Results
 
 [![PPT Icon](ppt_thumb.png)](cyclistic.pptx)
