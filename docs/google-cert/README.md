@@ -34,7 +34,5 @@ We will use data from the last twelve complete months, December 2020 through Nov
 
 ## Presentation of Results
 
-LINK WITH IMAGE HERE
-
 [![PPT Icon](ppt_thumb.png)](cyclistic.pptx)
 [here](cyclistic.pptx)
